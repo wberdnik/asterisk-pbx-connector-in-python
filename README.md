@@ -1,12 +1,8 @@
-This is a middleware for Private branch exchange Asterisk. 
+## AMI Asterisk integration agent
 
-Entrypoint (console): AsteriskPython.py
+Type:  AsteriskPython.py --help
 
-Help:  AsteriskPython.py --help
+Requirements: Asterisk, AMI of Assterisk; MySQL, backend API.
 
-Requirements: Asterisk, AMI of Assterisk; MySQL, backend(http://leadinka.com), Dialplane of Asterisk (don't present).
 
-The project consist 7 classes
-
-Year of development: 2020. Author: Berdnik Vladislav(wberdnik@gmail.com)
-The middleware is used the backend http://leadinka.com.
+Created: 2020. Author: Morph(wberdnik@gmail.com)
